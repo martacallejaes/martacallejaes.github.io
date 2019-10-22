@@ -108,7 +108,7 @@ ul.address li ul.address-text li a:hover{
 /*--//banner-top--*/
 /*--top-nav--*/
 .top-nav {
-    background: #008B8B;
+    background: #292730;
 }
 .nav > li {
     display: inline-block;
@@ -175,7 +175,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #000;
+    background:#292730;
 }
 .work-left {
     text-align: right;
@@ -266,12 +266,15 @@ p {
 /*--//work--*/
 /*--education--*/
 .education .work-info h5 {
-    color: #000;
+    color: #292730;
 }
 /*--//education--*/
 /*--skills--*/
+.competencias {
+    background:#292730;
+}
 .skills{
-	background:#000;
+	background:#292730;
 }
 .bar-grids {
     padding: 0 4em;
@@ -498,7 +501,7 @@ h2.resp-accordion {
 /*--//portfolio--*/
 /*--contact--*/
 .contact{
-	background:#000;
+    background: #ffffff;;
 }
 .contact-left iframe {
     width: 100%;
