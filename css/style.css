@@ -1036,7 +1036,8 @@ p {
 .resp-tabs-list {
     margin: 0 auto 0.5em;
 }
-.address-left,.address-right{
+.address-left,.address-right{ 
+    color:black;
     width: 100%;
     float: none;
 }
