@@ -19,7 +19,7 @@ body a{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-	font-family: 'Overlock', cursive;
+	font-family: 'Overlock';
 }
 p{
 	margin:0;
@@ -121,7 +121,7 @@ ul.nav.navbar li a {
     color: #fff;
     padding: 1em 2em;
     font-size: 1.2em;
-    font-family: 'Overlock', cursive;
+    font-family: 'Overlock';
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
     color: #008B8B;
