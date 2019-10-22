@@ -141,7 +141,7 @@ h3.title {
     font-size: 4em;
     text-align: center;
     color: #4188FF;
-    border-bottom: 4px double rgba(247, 197, 106, 0.35);
+    border-bottom: 4px double #4188FF;
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
 }
@@ -207,9 +207,9 @@ p {
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #F7E612;
+    color: #FFFF;
     margin-bottom: .5em;
-    border: 1px solid #F7E612;
+    border: 1px solid #FFFF;
     display: inline-block;
     padding: 0 1.2em;
 }
@@ -256,7 +256,7 @@ p {
     margin-top: 0.8em;
 }
 .work-info:hover h5 span.glyphicon {
-    color: #F7E612;
+    color: #;
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
     transform: scale(1.2);
@@ -285,7 +285,7 @@ p {
     background-color: #2F2C06;
 }
 .progress-bar { 
-    background-color: #766E04;
+    background-color:#4188FF;
 }
 .bar-grids h6 {
     font-size: 1.1em;
@@ -301,7 +301,7 @@ p {
 /*--SAP--*/
 ul.resp-tabs-list {  
 /*-- w3layouts --*/
-background: #F7E612;
+background: #FFFF;
 }
 .sap_tabs{
 	clear:both;
