@@ -124,7 +124,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock';
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #008B8B;
+    color: #4188FF;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -140,7 +140,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #4188FF;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -154,13 +154,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double #4188FF;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: #4188FF;
 }
 .about-right ul li {
     display: block;
@@ -187,7 +187,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: darkcyan;
+    background: #4188FF;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -203,7 +203,7 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent rgb(0, 139, 139);
+    border-color: transparent transparent transparent #4188FF;
 }
 .work-info h5 {
     font-size: 1.3em;
@@ -216,7 +216,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: #4188FF;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -336,12 +336,12 @@ background: #F7E612;
 	position:relative;
 }
 .resp-tab-item:hover{
-    color: #1D9898;
+    color: #4188FF;
 }
 .resp-tab-active,.resp-tab-active:hover{
     text-shadow: none;
     color: #fff;
-    background: #1D9898;
+    background: #4188FF;
 }
 .resp-tab-active:before {
     width: 0;
@@ -353,7 +353,7 @@ background: #F7E612;
 	/*-- agileits --*/
     border-style: solid;
     border-width: 7px 7px 0 7px;
-    border-color: #1D9898 transparent transparent transparent;
+    border-color: #4188FF transparent transparent transparent;
 }
 .resp-tabs-container {
 	padding: 0px;
@@ -576,8 +576,8 @@ h2.resp-accordion {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #008B8B;
-    border: 2px solid #008B8B;
+    background: #4188FF;
+    border: 2px solid #4188FF;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
@@ -586,7 +586,7 @@ h2.resp-accordion {
 }
 .contact-form input[type="submit"]:hover {
     background: none;
-    color: #008B8B;
+    color: #4188FF;
 }
 ::-webkit-input-placeholder {
 	color:#fff !important;
